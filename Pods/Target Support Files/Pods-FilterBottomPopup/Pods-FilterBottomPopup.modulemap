@@ -1,0 +1,6 @@
+framework module Pods_FilterBottomPopup {
+  umbrella header "Pods-FilterBottomPopup-umbrella.h"
+
+  export *
+  module * { export * }
+}
